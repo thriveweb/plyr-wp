@@ -1,1 +1,3 @@
-window.onload = function() { plyr.setup(); }
+window.onload = function() {
+  plyr.setup()
+}
